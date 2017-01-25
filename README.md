@@ -5,7 +5,7 @@ Schedule appointments for your Patients today at Ukenol. AngularJS application s
 [![Build Status](https://travis-ci.org/stevenbenner/jquery-powertip.svg?branch=master)](https://travis-ci.org/stevenbenner/jquery-powertip)
 ![License](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
-![Image](https://github.com/planlodge/Patients-Scheduling/blob/master/public/img/screen2.png?raw=true)
+![Image](https://github.com/planlodge/Frameworks-API/blob/master/Extras/img/screen5.png?raw=true)
 
 ## Description
 
